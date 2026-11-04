@@ -14,6 +14,6 @@ To provide students with easy access to academic information and learning materi
 To enable lecturers to share educational resources and important announcements.
 To provide updated information about courses, departments and academic programmes.
 
-The users or students would be able to access the academic website that is designed, implemented, and hosted on server with the link or url below. kogistatepolytechnic.netlify.app.
+The users or students would be able to access the academic website that is designed, implemented, and hosted on server with the link or url below. kogistatepolytechnic.netlify.app
 
 
